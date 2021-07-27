@@ -1,0 +1,19 @@
+.flag{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #4aaaa5;
+    text-align: center;
+    color: white;
+    position: absolute;
+    bottom: 30px;
+    width: 83%;
+    padding: 8px 0px 8px 0px;
+    }
+
+.pictureboxes{      
+    display: inline-flex;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 40px; 
+    padding-right: 20px; 
+    position: relative;
+    }
